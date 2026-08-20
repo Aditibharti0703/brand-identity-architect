@@ -1,0 +1,7 @@
+{
+  "name": "Brand Bible - Brand Identity Generator",
+  "description": "Generate comprehensive Brand Bibles with primary logos, secondary marks, 5-color palettes with WCAG usage notes, and Google Font pairings from company missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
